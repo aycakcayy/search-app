@@ -1,3 +1,1 @@
-# react-2t54rg
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-2t54rg)
+# Using props, useState, useEffect, react-router-dom etc.
